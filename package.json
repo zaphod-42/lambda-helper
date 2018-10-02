@@ -1,0 +1,17 @@
+{
+	"name": "lambda",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Trey Felton",
+	"license": "ISC",
+	"dependencies": {
+		"aws-sdk": "^2.326.0"
+	},
+	"bin": {
+		"lambda": "./index.js"
+	}
+}
